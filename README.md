@@ -18,7 +18,7 @@
 - 🛡️ Building **ML-driven threat detection**: auto-synthesizing Sigma rules from network flow data, and a security log analysis dashboard with evidence-grounded MITRE ATT&CK mapping
 - 🌐 **Open Source:** team-merged contribution to **Kedro** (LF AI & Data) · working on docs for **Vizro** (McKinsey)
 - 🏆 **2nd Place** at the **Hackyard hackathon**
-- 🎯 Looking for **Cybersecurity / Security Analyst / Data Analyst internships**
+- 🎯 Looking for **ML/ Security Analyst / Data Analyst internships**
 
 ---
 
