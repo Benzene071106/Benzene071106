@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CGPA-8.9-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackyard-Selected%20for%20Offline%20Round-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackyard%20Hackathon-2nd%20Place-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 - 🎓 B.Tech CSE student (Class of 2028), Honours in Data Engineering, at Ramdeobaba University, Nagpur
 - 🛡️ Building **ML-driven threat detection**: auto-synthesizing Sigma rules from network flow data, and a security log analysis dashboard with evidence-grounded MITRE ATT&CK mapping
 - 🌐 **Open Source:** team-merged contribution to **Kedro** (LF AI & Data) · working on docs for **Vizro** (McKinsey)
-- 🏆 Selected for the **offline round of the Hackyard hackathon**
+- 🏆 **2nd Place** at the **Hackyard hackathon**
 - 🎯 Looking for **Cybersecurity / Security Analyst / Data Analyst internships**
 
 ---
